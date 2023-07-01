@@ -71,7 +71,10 @@
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
+    .project {
+        padding: 2rem 1rem;
+    }
     .project_info p, .project_website_btn, .project_src_code_btn {
         font-size: 1rem;
     }
