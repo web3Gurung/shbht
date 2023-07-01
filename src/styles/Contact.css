@@ -46,4 +46,8 @@
     .contact {
         padding: 2rem 1rem;
     }
+
+    .contact_main p {
+        font-size: 1.2rem;
+    }
 }

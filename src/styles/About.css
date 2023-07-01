@@ -55,4 +55,8 @@
     .about {
         padding: 2rem 1rem;
     }
+
+    .about_info p {
+        font-size: 1.2rem;
+    }
 }

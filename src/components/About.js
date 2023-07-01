@@ -31,9 +31,9 @@ const About = () => {
         <div className="about">
             <div className="about_info">
                 <h1><span>01. </span>About</h1> <br/>
-                <p>I like to build. Started off my career in video editing and motion graphics, switching to code. I learnt web development from the Odin Project.<br/>
+                <p>I like to build. Started off my career in video editing and motion graphics, switching to code. I learnt web development from the Odin Project.<br/> <br/>
 
-                I am interested in product based work as there’s a kick in helping to make people’s lives easier.<br/>
+                I am interested in product based work as there’s a kick in helping to make people’s lives easier.<br/> <br/>
 
                 Side note: I like to talk about chess and philosophy :&#10630;
                 </p>
