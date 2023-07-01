@@ -9,6 +9,10 @@
     font-size: 1.5rem;
 }
 
+.projects_info h1 {
+    font-weight: 500;
+}
+
 .projects_info h1 > a {
     text-decoration: none;
     color: var(--white-color);

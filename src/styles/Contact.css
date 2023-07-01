@@ -9,6 +9,10 @@
     font-size: 1.5rem;
 }
 
+.contact_info h1 {
+    font-weight: 500;
+}
+
 .contact_info span {
     font-size: 1.5rem;
     font-weight: 400;
@@ -30,12 +34,12 @@
 
 .contact_main p > a {
     color: var(--primary-color);
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .contact_main p > a:visited {
     color: var(--primary-color);
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 600px) {

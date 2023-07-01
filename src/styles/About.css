@@ -9,6 +9,10 @@
     font-size: 1.5rem;
 }
 
+.about_info h1 {
+    font-weight: 500;
+}
+
 .about_info span {
     font-size: 1.5rem;
     font-weight: 400;
