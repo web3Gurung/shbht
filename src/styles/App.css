@@ -13,10 +13,28 @@
     background-color: var(--background-color);
 }
 html {
-    min-width: 800px;
+    min-width: 320px;
 }
 
 hr {
     width:50%;
     margin:0 auto;
+}
+
+@media screen and (max-width: 480px) {
+    html, body {
+        min-width: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    html, body {
+        min-width: auto;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    html, body {
+        min-width: auto;
+    }
 }
