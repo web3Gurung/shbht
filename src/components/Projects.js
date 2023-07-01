@@ -17,7 +17,7 @@ const Projects = () => {
     return (
         <div className="projects">
             <div className="projects_info">
-                <h1><span>02. </span><a id="projects" href="/">Projects</a></h1> <br/>
+                <h1><span>02. </span><a id="projects" href="#">Projects</a></h1> <br/>
             </div>
 
             <div className="projects_container">
