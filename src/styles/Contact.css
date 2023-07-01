@@ -37,3 +37,9 @@
     color: var(--primary-color);
     text-decoration: none;
 }
+
+@media screen and (max-width: 600px) {
+    .contact {
+        padding: 2rem 1rem;
+    }
+}

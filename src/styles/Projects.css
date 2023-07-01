@@ -31,5 +31,16 @@
     .projects_container {
         flex-direction: column;
         align-items: center;
+        margin: 0;
+    }
+
+    .projects {
+        padding: 2rem 1rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .projects {
+        padding: 2rem 1rem;
     }
 }

@@ -63,10 +63,11 @@
 @media screen and (max-width: 1200px) {
     .project {
         display: block;
-        min-width: 410px;
+        /* min-width: 410px; */
     }
 
     .project_info {
         text-align: center;
     }
 }
+

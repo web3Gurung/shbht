@@ -81,3 +81,9 @@
         display: flex;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .navbar {
+        padding: 2rem 2rem;
+    }
+}
