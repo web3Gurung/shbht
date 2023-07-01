@@ -25,6 +25,11 @@
     margin-right: 3rem;
     color: var(--white-color);
     cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.navbar_links p > a:hover {
+    color: var(--primary-color);
 }
 
 .navbar_close {
