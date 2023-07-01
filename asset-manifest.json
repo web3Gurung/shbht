@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Shobhit-Nagpal/portfolio/static/css/main.ff3b7f8b.css",
+    "main.js": "/Shobhit-Nagpal/portfolio/static/js/main.485714bc.js",
+    "static/media/weather-app.png": "/Shobhit-Nagpal/portfolio/static/media/weather-app.8843d77ed719c45275a4.png",
+    "static/media/memory-card.png": "/Shobhit-Nagpal/portfolio/static/media/memory-card.7fe58722643848e6555a.png",
+    "static/media/youtube-clone.png": "/Shobhit-Nagpal/portfolio/static/media/youtube-clone.55bc4068917f4ea172de.png",
+    "static/media/tag.png": "/Shobhit-Nagpal/portfolio/static/media/tag.eabcfab63245b5fd35fc.png",
+    "static/media/shobhit.png": "/Shobhit-Nagpal/portfolio/static/media/shobhit.fa1c43bb185e1cf7f6c1.png",
+    "static/media/revicons.eot": "/Shobhit-Nagpal/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Shobhit-Nagpal/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Shobhit-Nagpal/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Shobhit-Nagpal/portfolio/index.html",
+    "main.ff3b7f8b.css.map": "/Shobhit-Nagpal/portfolio/static/css/main.ff3b7f8b.css.map",
+    "main.485714bc.js.map": "/Shobhit-Nagpal/portfolio/static/js/main.485714bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff3b7f8b.css",
+    "static/js/main.485714bc.js"
+  ]
+}
