@@ -31,11 +31,11 @@ const About = () => {
         <div className="about">
             <div className="about_info">
                 <h1><span>01. </span>About</h1> <br/>
-                <p>I like to build. Started off my career in video editing and motion graphics, switching to code. I learnt web development from the Odin Project.<br/> <br/>
+                <p>Hey! I'm Shobhit (which you probably knew). I started off my career in video editing and motion design. While working in design and contributing to products, I thought, "Why not try to build products on my own?" which led me to learn code.<br/> <br/>
 
-                I am interested in product based work as there’s a kick in helping to make people’s lives easier.<br/> <br/>
+                Currently, I am a frontend web developer, on my way to become a full stack developer. I am looking to work at companies (preferably product based) and contribute to help make people's lives easier.<br/> <br/>
 
-                Side note: I like to talk about chess and philosophy :&#10630;
+                In my free time, I play chess, think about life because why not and sometimes make Lottie animations :&#10630;
                 </p>
             </div>
 
