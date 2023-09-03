@@ -4,7 +4,8 @@ import '../styles/index.css';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import { FaReact, FaHtml5, FaCss3, FaNpm } from "react-icons/fa";
-import { BiLogoJavascript, BiLogoFirebase, BiLogoGit } from "react-icons/bi";
+import { BiLogoNodejs, BiLogoFirebase, BiLogoGit, BiLogoMongodb } from "react-icons/bi";
+import { SiExpress } from "react-icons/si";
 
 const About = () => {
 
@@ -43,7 +44,9 @@ const About = () => {
                 <div className="carousel-container">
                         <Carousel responsive={responsive} infinite={true} autoPlay={true} autoPlaySpeed={1500} removeArrowOnDeviceType={["tablet", "mobile"]} itemClass="carousel-item-padding-40-px" containerClass="carousel-container">
                             <FaReact />
-                            <BiLogoJavascript />
+                            <BiLogoNodejs />
+                            <SiExpress />
+                            <BiLogoMongodb />
                             <FaHtml5 />
                             <FaCss3 />
                             <FaNpm />
