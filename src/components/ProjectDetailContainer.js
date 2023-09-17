@@ -10,7 +10,7 @@ const ProjectDetailContainer = ( {project} ) => {
             <h2>{project.name}</h2>
             <p>{project.description}</p>
 
-            <button className="project_website_btn"><a href={project.website} target="_blank" rel="noreferrer">Live</a></button>
+            { project.website !== "" && (<button className="project_website_btn"><a href={project.website} target="_blank" rel="noreferrer">Live</a></button>) }
             <button className="project_src_code_btn"><a href={project.repo} target="_blank" rel="noreferrer">Repo</a></button>
             </div>
 
