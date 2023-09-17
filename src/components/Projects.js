@@ -7,6 +7,7 @@ import tagImg from '../assets/tag.png';
 import memoryCardImg from '../assets/memory-card.png';
 import weatherAppImg from '../assets/weather-app.png';
 import palettePixImg from '../assets/palettepix.png';
+import blogImg from "../assets/blog.png"
 
 const Projects = () => {
 
@@ -14,6 +15,7 @@ const Projects = () => {
 
     useEffect(() => {
         setProjects([{name: 'Palette Pix', description: 'A tool where designers and developers can quickly test out color palettes. Users can change to palettes of their choice or get a random palette.', img: palettePixImg, website: 'https://shobhit-nagpal.github.io/palettepix/', repo: 'https://github.com/Shobhit-Nagpal/palettepix'}, 
+                     {name: 'Personal Blog', description: 'A blog for personal thoughts, made using MERN stack. Blogs inspired from Inner Monologue.', img: blogImg, website: '', repo: 'https://github.com/Shobhit-Nagpal/blog'},
                      {name: 'Youtube Clone', description: 'A Youtube clone using React, Rapid API, Firebase where a user can see the home feed, search for videos/channels and watch videos.', img: youtubeCloneImg, website: 'https://youtube-clone-dusky-nine.vercel.app/', repo: 'https://github.com/Shobhit-Nagpal/youtube-clone'},
                      {name: 'Tag', description: 'A photo tagging game where you have to find your favourite game characters. Made using React, React Router and Firebase', img: tagImg, website: 'https://shobhit-nagpal.github.io/tag/', repo: 'https://github.com/Shobhit-Nagpal/tag'} , 
                      {name: 'Memory card', description: 'A memory game where you have to choose all characters only once. The charaters are from the Office! Made using React', img: memoryCardImg, website: 'https://shobhit-nagpal.github.io/memory-card/', repo: 'https://github.com/Shobhit-Nagpal/memory-card'}, 
