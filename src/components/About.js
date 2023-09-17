@@ -34,7 +34,7 @@ const About = () => {
                 <h1><span>01. </span>About</h1> <br/>
                 <p>Hey! I'm Shobhit (which you probably knew). I started off my career in video editing and motion design. While working in design and contributing to products, I thought, "Why not try to build products on my own?" which led me to learn code. The Internet always intrigued me so I chose to get into web development and started learning through The Odin Project.<br/> <br/>
 
-                Currently, I am a frontend web developer, on my way to become a full stack developer. I am looking to work at companies (preferably product based) and contribute to help make people's lives easier.<br/> <br/>
+                Currently, I am a fullstack  web developer, beginning my journey as a front-end developer. I am looking to work at companies (preferably product based) and contribute to help make people's lives easier.<br/> <br/>
 
                 In my free time, I play chess, think about life because why not and sometimes make Lottie animations :&#10630;
                 </p>
