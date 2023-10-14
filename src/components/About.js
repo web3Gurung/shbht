@@ -36,7 +36,7 @@ const About = () => {
 
                 Currently, I am a fullstack  web developer, beginning my journey as a front-end developer. I am looking to work at companies (preferably product based) and contribute to help make people's lives easier.<br/> <br/>
 
-                In my free time, I play chess, think about life because why not and sometimes make Lottie animations :&#10630;
+                In my free time, I play chess, think about life (because why not) and sometimes make Lottie animations :&#10630;
                 </p>
             </div>
 
