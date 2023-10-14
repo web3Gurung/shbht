@@ -4,7 +4,7 @@ import '../styles/index.css';
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import { FaReact, FaHtml5, FaCss3, FaNpm } from "react-icons/fa";
-import { BiLogoNodejs, BiLogoFirebase, BiLogoGit, BiLogoMongodb } from "react-icons/bi";
+import { BiLogoNodejs, BiLogoFirebase, BiLogoGit, BiLogoMongodb, BiLogoDocker } from "react-icons/bi";
 import { SiExpress } from "react-icons/si";
 
 const About = () => {
@@ -52,6 +52,7 @@ const About = () => {
                             <FaNpm />
                             <BiLogoFirebase />
                             <BiLogoGit />
+                            <BiLogoDocker />
                         </Carousel>
                     </div>
             </div>
